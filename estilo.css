@@ -1,0 +1,30 @@
+body {font-family: 'Roboto', sans-serif;
+margin: 0;
+padding: 0;
+}
+
+.topo{
+}
+
+
+.topo h3{text-align: center;
+        padding-top: 15px;
+        color: rgb(13, 13, 87);
+        font-size: 30px;
+        text-transform: lowercase;
+    }
+
+.topo div{background: rgb(13, 13, 87);
+}
+
+.topo a{text-decoration:none ;
+        color: white;
+        display: flex;
+        padding: 20px 170px;
+        letter-spacing:2px;
+    }
+
+.topo a:hover{background: hsla(240, 88%, 56%, 0.349);
+transition: 2s;} 
+
+
